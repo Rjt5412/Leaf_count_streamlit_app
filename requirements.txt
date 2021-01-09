@@ -1,0 +1,3 @@
+streamlit
+tensorflow-cpu==2.1.0
+Pillow==8.0.1
